@@ -1,0 +1,2 @@
+# ApkChannelPackageJavaCore
+apk多渠道打包java核心代码
